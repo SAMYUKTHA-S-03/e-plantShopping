@@ -1,0 +1,32 @@
+/* Navbar.css */
+.navbar {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo-icon {
+  height: 40px;
+}
+
+.tagline {
+  font-size: 0.75rem;
+  margin: 0;
+}
+
+.ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  margin: 0;
+  font-size: 1.1rem;
+}
